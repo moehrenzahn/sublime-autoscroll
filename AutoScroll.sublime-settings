@@ -1,0 +1,8 @@
+{
+	// Enables Typewriter Scrolling
+	"auto_scroll": true,
+
+	// Set a non-zero value to offset the center of the scrolling mode by that many lines.
+	"scrolling_offset": 0
+
+}
